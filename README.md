@@ -2,6 +2,8 @@
 
 This is the second assignment of the DU Coding Bootcamp.  The webpage has been re-worked to be responsive on all screen sizes.
 
+https://knanda625.github.io/ResponsivePortfolio/
+
 
 ## Getting Started
 
